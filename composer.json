@@ -1,0 +1,17 @@
+{
+    "name": "zyw/test",
+    "require": {
+        "php": "7.1.5"
+    },
+    "authors": [
+        {
+            "name": "zyw",
+            "email": "625036860@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TestHello\\": "src/"
+        }
+    }
+}
