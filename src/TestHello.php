@@ -14,4 +14,9 @@ class TestHello
     public static function index(){
         echo "hello world";
     }
+
+    public static function test(){
+
+        echo "test";
+    }
 }
